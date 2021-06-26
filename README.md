@@ -3,7 +3,7 @@ I am KC from Nigeria. I am a Python Programmer
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nduprincekc&prs)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nduprincekc)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Hi there, I'm [Amar Kumar!](https://www.amarkumar.tk/)👋 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<a href="https://drive.google.com/uc?export=download&id=1VsV7s3u2BApmdzL0QvFvtDRWrDsiS2CL" target="_blank"><img src="https://github.com/amark720/Amar-kumar/blob/master/ScreenShots/DownloadResumeButton.PNG" width=165 height=30 ></a>
 ### Data Scientist at GS Lab!
