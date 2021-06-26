@@ -36,11 +36,6 @@ I am KC from Nigeria. I am a Python Programmer
 ### Languages and Tools:
 
 <img align="left" alt="PYTHON" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="tensorflow" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tensorflow.svg" />
-<img align="left" alt="scikit-learn" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/scikit-learn.svg" />
-<img align="left" alt="numpy" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/numpy.svg" />
-<img align="left" alt="Tableau" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/tableau.svg" />
-<img align="left" alt="jupyter" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/jupyter.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
