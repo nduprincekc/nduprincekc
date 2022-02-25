@@ -1,7 +1,6 @@
 ### Hi there 👋
 I am KC from Nigeria. I am a Python Programmer
 
-![image](https://user-images.githubusercontent.com/9885341/155768692-e1439f69-9ca4-46bd-bb5a-605bfd3e1ec8.png)
 
 
 ### Data Scientist at GS Lab!
