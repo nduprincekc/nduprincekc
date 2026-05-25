@@ -3,12 +3,11 @@ I am KC from Nigeria. I am a Python Programmer
 
 
 
-### Data Scientist at GS Lab!
 
 - 💼 Currently working on Computer Vision, NLP & Deep Learning projects.
 -🌱 I’m currently learning Data Science
 -👯 I’m looking to collaborate on Data Science
-- 🎯 2021 Goals: Learn and Contribute more towards Data Science Community.
+- 🎯 2026 Goals: Learn and Contribute more towards Data Science and AI Community.
 
 
 ### Connect with me:
