@@ -5,7 +5,6 @@ I am KC from Nigeria. I am a Python Programmer
 
 ### Data Scientist at GS Lab!
 
-- 🎓 Completed **M.C.A.(Hons.)** From Lovely Professional University!
 - 💼 Currently working on Computer Vision, NLP & Deep Learning projects.
 -🌱 I’m currently learning Data Science
 -👯 I’m looking to collaborate on Data Science
